@@ -9,10 +9,10 @@ Use graphs, tables, and other visual design techniques you know to present the d
 
 ## Libraries we like to use (you may like them too)
 
-Angular Material Design: https://material.angular.io/
-D3: https://d3js.org/
-ngx-charts: https://github.com/swimlane/ngx-charts
-Prime-NG: https://www.primefaces.org/primeng/#/
+- Angular Material Design: https://material.angular.io/
+- D3: https://d3js.org/
+- ngx-charts: https://github.com/swimlane/ngx-charts
+- Prime-NG: https://www.primefaces.org/primeng/#/
 
 ## How to Use this Angular Boilerplate
 
